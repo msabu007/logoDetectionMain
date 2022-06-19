@@ -59,3 +59,10 @@ and put the file in the projectfolder
 10. upload the test image
 11. click on execute
 12. after success full run, a window with labelled image will pop up and a cropped image will be stored in the output folder of the project directory
+
+
+# Image Annotation
+
+The image annotation is done based on the labelImg package
+
+`` https://github.com/tzutalin/labelImg ``
