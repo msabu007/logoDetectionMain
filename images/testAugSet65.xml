@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>testAugSet65.jpg</filename>
+	<path>E:\code\logDet\images\testAugSet65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>allianz</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>333</ymin>
+			<xmax>711</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+</annotation>

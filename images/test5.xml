@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>test5.jpg</filename>
+	<path>E:\code\logDet\images\test5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>allianz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>7</ymin>
+			<xmax>467</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>
