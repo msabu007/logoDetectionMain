@@ -38,6 +38,12 @@ Note: the python version used for the development is 3.9.12
 
 `` pip install -r requirements.txt ``
 
+5. download the model file from below link
+
+`` https://drive.google.com/file/d/1qI-JofHSF0tykjfc5skPzWHGa7Xj4ywt/view?usp=sharing``
+
+and put the file in the projectfolder
+
 5. run the app
 
 `` python main.py ``
